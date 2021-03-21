@@ -91,7 +91,7 @@ Within our applauncher we now search for price books
 
 We are then taken to the main page of price books where we are shown the standard Price Book which is the default price book. We will not be required to insert additional price books as our base target is individual customers where we will have one dedicated fixed price.
 
-Click on th price book
+Click on the price book
 
 <img src="./images/price-books-main-screen.png"/>
 
@@ -103,4 +103,16 @@ You will now see all product entries for the price book.
 
 <img src="./images/price-book-all-products.png"/>
 
+## Step 5 - CREATING THE CUSTOM HOMEPAGE
 
+We need to access the backend of Salesforce, this can be done by clicking the gear icon on the top right part of the salesforce interface. We then need to select setup
+
+<img src="./images/setup-page.png"/>
+
+In the quick find search option below the app launcher we search for lightning app builder
+
+<img src="./images/lightning-app-builder-search.png"/>
+
+This brings us to the main screen we click on the new button.
+
+<img src="./images/lightning-app-builder-new-page.png"/>

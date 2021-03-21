@@ -65,10 +65,42 @@ product code naming convention starts with ice-001 where the last 3 digits incre
 
 ## Step 3 - INSERT THE PRODUCTS INTO THE PRICE BOOK
 
+We click on one of the products that we would like to add to a price book & select the related tab.
+
+<img src="./images/product-related.png"/>
+
+We then click on Add to Price Book button on the top right.
+
+<img src="./images/product-related-tab.png"/>
+
+We select the price book & currency
+
+<img src="./images/select-price-book.png"/>
+
+**NB: At the time of building the project an error was made in creating additional price books when the standard one was sufficient however the process is exactly the same**
+
+The price book entry window box appears, ensure that its active and save. We do this for every product we need added to the price book.
+
+<img src="./images/price-book-entry.png"/>
+
+## Step 4 - VERIFY PRODUCTS HAVE ADDED TO THE PRICE BOOK
+
 Within our applauncher we now search for price books
 
 <img src="./images/search-for-price-books.png"/>
 
 We are then taken to the main page of price books where we are shown the standard Price Book which is the default price book. We will not be required to insert additional price books as our base target is individual customers where we will have one dedicated fixed price.
 
+Click on th price book
+
 <img src="./images/price-books-main-screen.png"/>
+
+Go to the related tab
+
+<img src="./images/price-books-main-screen.png"/>
+
+You will now see all product entries for the price book.
+
+<img src="./images/price-book-all-products.png"/>
+
+

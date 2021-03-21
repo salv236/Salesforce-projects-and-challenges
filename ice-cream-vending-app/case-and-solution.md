@@ -187,9 +187,13 @@ It was decided to use Opportunities with Products report type as you can see a m
 
 <img src="./images/breakdown-of-ice-cream-sold-by-day.png"/>
 
-clicking the chart icon on the top right  next to save and run provides us with a chart. This is required in order to display the chart data from the report on the user customized home page.
+clicking the chart icon on the top right next to save and run provides us with a chart. This is required in order to display the chart data from the report on the user customized home page.
 
 <img src="./images/ice-cream-per-day-and-chart.png"/>
+
+
+<img src="./images/top5-ice-creams-1-2.png"/>
+<img src="./images/top5-ice-creams-2-2.png"/>
 
 
 

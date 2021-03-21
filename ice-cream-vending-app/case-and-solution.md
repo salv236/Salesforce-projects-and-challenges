@@ -116,3 +116,30 @@ In the quick find search option below the app launcher we search for lightning a
 This brings us to the main screen we click on the new button.
 
 <img src="./images/lightning-app-builder-new-page.png"/>
+
+We should then see a dialogue box we select Home Page then click on next.
+
+<img src="./images/lightning-homepage.png"/>
+
+We then move to the page where we give it a label, type the text  in the label box then click on next.
+
+<img src="./images/lightning-page-label.png"/>
+
+We now will chose the layout of the page, we are going to stick with the header and three regions. Based on our requirements we can always change it at a later stage, click on finish.
+
+<img src="./images/lightning-page-layout.png"/>
+
+Next we chose the components from the left pane we select Dashboard, report charts & recent items
+
+<img src="./images/lightning-components.png"/>
+
+## Step 6 - BUILDING THE ICE CREAM VENDING APPLICATION
+
+I took the decision that for this requirement an application would make sense as there will be several objects involved, in order to develop the application we would need to use App Manager.
+
+Within the quick find we need to look for app manager
+
+<img src="./images/appmanager.png"/>
+
+
+

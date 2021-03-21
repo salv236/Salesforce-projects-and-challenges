@@ -1,2 +1,2 @@
 # Salesforce-projects-and-challenges
-This is a dedicated repository where i document in detail projects/ challenges and exercises within Slesforce
+This is a dedicated repository where i document in detail projects/ challenges and exercises within Salesforce which will provide evidence of my added value in assisting companies with their challenges.

@@ -177,6 +177,22 @@ You return to the previous screen, Ice cream orders app is displayed in the list
 
 <img src="./images/ice-cream-orders.png"/>
 
+## Step 7 - REPORTING
+
+Selling activity on a daily basis grouped by day and sorted by the number of scoops sold.
+
+<img src="./images/reporting-ice-creams-sold-by-day.png"/>
+
+It was decided to use Opportunities with Products report type as you can see a matrix style report was used filtered by row as closed date and column as quantity
+
+<img src="./images/breakdown-of-ice-cream-sold-by-day.png"/>
+
+clicking the chart icon on the top right  next to save and run provides us with a chart. This is required in order to display the chart data from the report on the user customized home page.
+
+<img src="./images/ice-cream-per-day-and-chart.png"/>
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-#BUSINESS CASE
+# BUSINESS CASE
 
 The Ice cream company requires a solution where the customer can order ice cream (minimum 1 scoop) and an unlimited number of scoops in a dynamic manner. Customers should also be able to select the toppings, sprinkles and whether they would like to include a Waffer. The solution should also allow to automatically calculate the total price.
 
@@ -17,31 +17,31 @@ When users log onto Salesforce on their homepage the data from the reports shoul
 
 <hr>
 
-#MY SOLUTION
+# MY SOLUTION
 
-##Step 1 - DETERMINE OBJECT USAGE
+## Step 1 - DETERMINE OBJECT USAGE
 
 The solution was developed on the dev org instance [https://eu40.lightning.force.com/] (https://eu40.lightning.force.com/)
 
 The first step during the process would be to ask yourself which standard objects can be used that would fulfill the requirements so this is what i came up with:
 
-###CONTACTS
+### CONTACTS
 
 This will be used to register new and existing customers that want to order.
 
-###OPPORTUNITIES
+### OPPORTUNITIES
 
 This will be used to register the sales of ice cream products.
 
-###PRODUCTS
+### PRODUCTS
 
 Goes without saying this would be required to register each ice cream flavour and toppings.
 
-###PRICE BOOKS
+### PRICE BOOKS
 
 We will be using only 1 price book as this Business Model only tragets individual customers, here we will be adding price per unit for ice cream and toppings.
 
-##Step 2 - DEFINING THE AVAILABLE PRODUCTS
+## Step 2 - DEFINING THE AVAILABLE PRODUCTS
 
 we search for Products object
 

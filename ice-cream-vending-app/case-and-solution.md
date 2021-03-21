@@ -43,9 +43,26 @@ We will be using only 1 price book as this Business Model only tragets individua
 
 ## Step 2 - DEFINING THE AVAILABLE PRODUCTS
 
-we search for Products object
+we search for Products object by going to the app launcher at the top left of the org
 
 <img src="./images/app-launcher.png"/>
 
+We then search for products
+
+<img src="./images/search-for-products.png"/>
+
+We should now see the products page clicking on the new button will allow us to start adding new products
+
+<img src="./images/new.png"/>
+
+We insert each product until all products have been added to the system. Adding new products by clicking **save & new** and clicking on **save** when we have decided its the last product.
+
+product code naming convention starts with ice-001 where the last 3 digits increments +1
+
+<img src="./images/ice-cream.png"/>
+
+<img src="./images/all-ice-creams.png"/>
+
+## Step 3 - INSERT THE PRODUCTS INTO THE PRICE BOOK
 
 

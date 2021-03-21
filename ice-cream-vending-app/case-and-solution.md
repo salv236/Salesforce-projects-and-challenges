@@ -45,7 +45,7 @@ We will be using only 1 price book as this Business Model only tragets individua
 
 we search for Products object
 
-[App Launcher](/ice-cream-vending-app/images/app-launcher.png)
+<img src="./images/app-launcher.png"/>
 
 
 

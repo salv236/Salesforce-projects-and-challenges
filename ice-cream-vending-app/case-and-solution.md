@@ -65,4 +65,10 @@ product code naming convention starts with ice-001 where the last 3 digits incre
 
 ## Step 3 - INSERT THE PRODUCTS INTO THE PRICE BOOK
 
+Within our applauncher we now search for price books
 
+<img src="./images/search-for-price-books.png"/>
+
+We are then taken to the main page of price books where we are shown the standard Price Book which is the default price book. We will not be required to insert additional price books as our base target is individual customers where we will have one dedicated fixed price.
+
+<img src="./images/price-books-main-screen.png"/>

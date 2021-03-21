@@ -195,6 +195,14 @@ clicking the chart icon on the top right next to save and run provides us with a
 <img src="./images/top5-ice-creams-1-2.png"/>
 <img src="./images/top5-ice-creams-2-2.png"/>
 
+## Step 8 - DASHBOARD
+
+The dashboard is a replica of whats contained in our reports
+
+<img src="./images/dashboard-view.png"/>
+
+
+
 
 
 

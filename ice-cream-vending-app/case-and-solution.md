@@ -201,6 +201,76 @@ The dashboard is a replica of whats contained in our reports
 
 <img src="./images/dashboard-view.png"/>
 
+## Step 9 - Using the App
+
+To acces the application we go to the applauncher and search for ice cream vendors
+
+<img src="./images/ice-cream-vendors-applauncher.png"/>
+
+Once you access the application it takes you to the homepage where you will see:
+
+- Dashboard.
+- Reports data in the form of charts.
+- Recently views items.
+
+<img src="./images/homepage-1-3.png"/>
+<img src="./images/homepage-2-3.png"/>
+<img src="./images/homepage-3-3.png"/>
+
+From the process we initaited using the app manager you will notice the navigation items displayed on top within outr application.
+
+<img src="./images/ice-cream-vendors-navigation-items.png"/>
+
+## FINAL PHASE - SIMULATING THE ORDERING PROCESS
+
+Once a customer enters the shop and wants to place their order the employee at the ice cream store would raise an opportunity, within the application they would create a new opportunity.
+
+<img src="./images/new-opportunity.png"/>
+
+In this scenario we will assume they are an existing customer, if they were a new customer from the customer field would select new comtact where you would need to complete the client details.
+
+- opportunity name - the naming convention used would be the date of the order - client name.
+- Amount - we can leave as 0,00 once we create the new opportunity the price book will automatically generate the calculated price to this field.
+- stage we set as closed/won as this is a definite sale, if the client changes its mind we can change the staus to close/lost
+
+<img src="./images/created-order.png"/>
+
+Once we have completed all the fields we can then save the record.
+
+Once the record has been saved we click on the details tab and we see the following information that we inputed.
+
+<img src="./images/confirmed-opportunity-record.png"/>
+
+On the right pane we click the arrow next to products and select **choose price book**
+
+<img src="./images/opportunity-product-screen.png"/>
+
+select the standard price book
+
+<img src="./images/standard-price-book-choice.png"/>
+
+Next we select add products
+
+<img src="./images/add-products.png"/>
+
+Next we select the flavours or toppings that the customer wants then click on next.
+
+<img src="./images/choices.png"/>
+
+Next we specify the quantiy of scoops the we click on save.
+
+<img src="./images/quantity.png"/>
+
+Notice how the Amount and expected revenue fields values change based on the calculated price of the customer order:
+
+<img src="./images/grand-total.png"/>
+
+
+
+
+
+
+
 
 
 

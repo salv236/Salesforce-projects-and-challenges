@@ -141,5 +141,21 @@ Within the quick find we need to look for app manager
 
 <img src="./images/appmanager.png"/>
 
+Next we need to select New lightning App
+
+<img src="./images/lightning-app.png"/>
+
+Define the app name, description, we can also specify a different image as the logo for the app an click next
+
+<img src="./images/app-details-branding.png"/>
+
+for the App options leave the defaults and click next
+
+<img src="./images/app-options.png"/>
+
+
+
+
+
 
 

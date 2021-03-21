@@ -45,7 +45,7 @@ We will be using only 1 price book as this Business Model only tragets individua
 
 we search for Products object
 
-[App Launcher](/images/app-launcher.png)
+[App Launcher](https://github.com/salv236/Salesforce-projects-and-challenges.git/images/app-launcher.png)
 
 
 

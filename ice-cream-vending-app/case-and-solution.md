@@ -153,6 +153,30 @@ for the App options leave the defaults and click next
 
 <img src="./images/app-options.png"/>
 
+We are next confronted with the utility items we are going to leave the defaults and click on next
+
+<img src="./images/app-manager-utility-items-screen.png"/>
+
+Next screen **Navigation Items** provides us the option to add the objects that should be part of the application we will place them in the following order:
+
+- Ice Cream Vending (Being the home page we built)
+- Contacts
+- Opportunities
+- Products
+- Price Books
+- Reports
+- Dashboards
+
+<img src="./images/navigation-items.png"/>
+
+Next we will select which user profiles will have access to the application, we will select Sales & System Administrator then click on Save & Finish
+
+<img src="./images/app-manager-profiles.png"/>
+
+You return to the previous screen, Ice cream orders app is displayed in the list of apps
+
+<img src="./images/ice-cream-orders.png"/>
+
 
 
 

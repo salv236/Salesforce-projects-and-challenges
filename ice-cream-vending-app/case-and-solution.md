@@ -4,7 +4,7 @@ The Ice cream company requires a solution where the customer can order ice cream
 
 <u> Reports </u>
 
-Ice selling history grouped by day.
+Ice cream selling history grouped by day.
 
 <u> Dashboard </u>
 
